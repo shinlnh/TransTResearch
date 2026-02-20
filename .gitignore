@@ -1,0 +1,33 @@
+# Python virtual environments
+venv/
+venv312/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files
+*.pt
+*.pth
+*.ckpt
+
+# Large binary data files
+*.bin
+gpt/CutSequences/*.bin
+data/Token/data/corpus_cleaned.txt
+
+# Large data files
+data/Token/data/enwiki_*/
+data/TokenizeCorpus/data_tokBERT/
+data/TokenizeCorpus/data_tokGPT/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

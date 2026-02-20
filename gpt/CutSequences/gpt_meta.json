@@ -1,0 +1,10 @@
+{
+  "seq_len": 512,
+  "stride": 512,
+  "num_samples": 2562351,
+  "dtype": "uint32",
+  "ids_bin": "E:\\Programming\\Python\\Theory\\NLP\\Transformer\\GPTBERT\\data\\TokenizeCorpus\\data_tokGPT\\train_ids.bin",
+  "x_bin": "E:\\Programming\\Python\\Theory\\NLP\\Transformer\\GPTBERT\\gpt\\CutSequences\\gpt_x.bin",
+  "y_bin": "E:\\Programming\\Python\\Theory\\NLP\\Transformer\\GPTBERT\\gpt\\CutSequences\\gpt_y.bin",
+  "format": "gpt_shifted"
+}
